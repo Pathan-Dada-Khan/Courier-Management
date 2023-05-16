@@ -1,9 +1,10 @@
 # Courier-Management
 
-Courier Management System is Java Desktop Application that simplifies courier management and supports the high availability of courier services to the business and the customer.
+Courier Management System is Java Desktop Application that simplifies courier management and supports the high availability of courier services to the business and the customers.
 
 <ul>
 
+  <li> <b>Java Swing</b> for front end.</li>
   <li> <b>MySQL</b> for storing courier data.</li>
   <li> <b>JDBC</b> for connecting MySQL and Java.</li>
   
